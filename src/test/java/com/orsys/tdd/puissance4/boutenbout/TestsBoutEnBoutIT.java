@@ -20,7 +20,7 @@ import static java.util.concurrent.TimeUnit.*;
 
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
-public class TestsBoutEnBout {
+public class TestsBoutEnBoutIT {
 	
 	private static final long TIMEOUT = 2;
 	static private IActionsPuissance4 ihmJoueur1 = null;

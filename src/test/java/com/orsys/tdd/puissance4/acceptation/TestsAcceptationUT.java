@@ -11,7 +11,7 @@ import org.junit.Test;
 import com.orsys.tdd.puissance4.serveur.modele.ConstructeurModelePuissance4;
 import com.orsys.tdd.puissance4.serveur.modele.ModelePuissance4;
 
-public class TestsAcceptation {
+public class TestsAcceptationUT {
 	private ModelePuissance4 modele = null;
 	private ConstructeurModelePuissance4 fabrique = new ConstructeurModelePuissance4();
     
